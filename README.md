@@ -53,9 +53,11 @@ Created a centralized technical support resource to help field engineers access 
 - **Framework:** Yii2
 - **E-commerce:** OpenCart
 - **CMS:** WordPress
-- **Cloud:** Microsoft Azure Fundamentals
+- **Cloud:** Microsoft Azure
+- **Data Analytics & Visualization:** Microsoft Power BI
 - **Programming:** Python
 - **Version Control:** Git, GitHub
+- **Digital Marketing:** Online Business Growth, E-commerce Marketing
 
 ### 🌱 Currently Improving
 
