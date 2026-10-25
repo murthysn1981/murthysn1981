@@ -44,8 +44,8 @@ Created a centralized technical support resource to help field engineers access 
 
 ### ☁️ Certification
 
-- Microsoft Azure Fundamentals (AZ-900) — include the certification title here if you passed the exam and earned the credential.
-
+- Microsoft Azure Fundamentals (AZ-900)
+  
 ### 🛠️ Technologies & Tools
 
 - **Web Development:** HTML, CSS, JavaScript, PHP
