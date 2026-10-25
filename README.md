@@ -1,63 +1,76 @@
-<h1> Hi, I'm Murthy 👋</h1>
+# Hi, I'm Murthy 👋
 
-<h2>Web Developer | E-commerce | CRM | Business Solutions</h2>
+## Web Developer | E-commerce | CRM | Digital Marketing
 
 I build practical digital solutions that help businesses strengthen their online presence, streamline operations, and improve customer support.
 
-My project experience spans **e-commerce development, CRM applications, corporate websites, and technical support knowledge resources.**
+My experience spans **e-commerce development, CRM applications, corporate websites, digital marketing, and technical support resources.**
 
-<h3>💼 Project Experience </h3>
+### 💼 Project Experience
 
-<h4>🛒 E-commerce Development — Vishal Peripherals & Vishal Computech</h4>
+#### 🛒 E-commerce Development — Vishal Peripherals & Vishal Computech
 
 Developed e-commerce websites using OpenCart to support online product presentation and retail operations.
-<b>Technology:</b> OpenCart
 
-<h4>📈 Digital Marketing & Business Growth — Vishal Peripherals & Vishal Computech</h4>
+**Technology:** OpenCart
 
--Managed digital marketing initiatives to strengthen online presence and support business growth. 
-- Contributed to growing the business from ₹0 to ₹30 Lakhs through digital marketing and online business initiatives.
+#### 📈 Digital Marketing & Business Growth — Vishal Peripherals & Vishal Computech
+
+- Managed digital marketing initiatives to strengthen online visibility and support business growth.
+- Contributed to growing the business from **₹0 to ₹30 Lakhs** through digital marketing and online business initiatives.
 - Combined e-commerce website development and digital marketing to support customer acquisition and business development.
 
-<b> Focus Areas:</b> Digital Marketing · E-commerce Growth · Online Business Development
+**Focus Areas:** Digital Marketing · E-commerce Growth · Online Business Development
 
-<h4>⚙️ CRM Application Development</h4>
+#### ⚙️ CRM Application Development
 
 Developed a Customer Relationship Management (CRM) application using the Yii2 framework to support business workflows and customer-related operations.
 
-<b>Technologies:</b> PHP · Yii2
+**Technologies:** PHP · Yii2
 
-<h4>🌐 Corporate Website — ESY Tech Resources India Pvt. Ltd.</h4>
+#### 🌐 Corporate Website — ESY Tech Resources India Pvt. Ltd.
 
 Developed a corporate website using WordPress to present company information and establish an online presence.
 
-<b>Platform:</b> WordPress
+**Platform:** WordPress
 
-<h4>🛠️ TVSE Field Engineers Help Centre</h4>
+#### 🛠️ TVSE Field Engineers Help Centre
 
 Created a centralized technical support resource to help field engineers access troubleshooting information and support documentation.
 
-<a href="sites.google.com/view/tvsehelpcentre">🔗 Visit the TVSE Field Engineers Help Centre</a>
+[🔗 Visit the TVSE Field Engineers Help Centre](https://sites.google.com/view/tvsehelpcentre)
 
-<b>Platform:<b> Google Sites
+**Platform:** Google Sites
 
-<h4>☁️ Cloud Certification</h4>
-- <b>Microsoft Certified
-    
-<h4>🌱 Currently Improving</h4>
-    
-    - Python and JavaScript programming
-    - Modern web development practices
-    - Git and GitHub workflows
-    - Code quality and technical documentation
+### ☁️ Certification
 
-<h4>🎯 Professional Goal</h4>
-To build reliable, user-friendly digital solutions, strengthen my development skills, and contribute to meaningful software projects.
+- Microsoft Azure Fundamentals (AZ-900) — include the certification title here if you passed the exam and earned the credential.
 
-<h4>🤝 Connect With Me</h4>
+### 🛠️ Technologies & Tools
 
-<b>GitHub:</b> murthysn1981 
+- **Web Development:** HTML, CSS, JavaScript, PHP
+- **Framework:** Yii2
+- **E-commerce:** OpenCart
+- **CMS:** WordPress
+- **Cloud:** Microsoft Azure Fundamentals
+- **Programming:** Python
+- **Version Control:** Git, GitHub
 
-<b>LinkedIn:</b> <a href= "linkedin.com/in/murthysn">Connect with me</a>
+### 🌱 Currently Improving
 
-<i>⭐ Building practical solutions. Learning continuously. Growing through technology.</i>
+- Python and JavaScript programming
+- Modern web development practices
+- Git and GitHub workflows
+- Code quality and technical documentation
+
+### 🎯 Professional Goal
+
+To build reliable, user-friendly digital solutions, strengthen my development skills, and contribute to meaningful software projects that deliver measurable business value.
+
+### 🤝 Connect With Me
+
+- **GitHub:** [murthysn1981](https://github.com/murthysn1981)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/murthysn)
+
+⭐ *Building practical solutions. Learning continuously. Growing through technology.*
+
