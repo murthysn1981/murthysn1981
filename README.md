@@ -18,9 +18,10 @@ Developed e-commerce websites using OpenCart to support online product presentat
 
 - Managed digital marketing initiatives to strengthen online visibility and support business growth.
 - Contributed to growing the business from **₹0 to ₹30 Lakhs in monthly revenue** through digital marketing and online business initiatives.
-- Combined e-commerce website development and digital marketing to support customer acquisition and business development.
-
-**Focus Areas:** Digital Marketing · E-commerce Growth · Online Business Development
+- Supported e-commerce growth through website development, online presence, and customer acquisition initiatives.
+- Combined technical expertise with digital marketing strategies to support revenue growth and business development.
+  
+**Focus Areas:** Digital Marketing · E-commerce Growth · Revenue Growth · Online Business Development
 
 #### ⚙️ CRM Application Development
 
