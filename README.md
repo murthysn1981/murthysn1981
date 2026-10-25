@@ -56,7 +56,8 @@ To build reliable, user-friendly digital solutions, strengthen my development sk
 
 <h4>🤝 Connect With Me</h4>
 
-<b>GitHub:</b> murthysn1981
+<b>GitHub:</b> murthysn1981 
+
 <b>LinkedIn:</b> <a href= "linkedin.com/in/murthysn">Connect with me</a>
 
 <i>⭐ Building practical solutions. Learning continuously. Growing through technology.</i>
