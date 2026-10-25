@@ -11,8 +11,15 @@ My project experience spans **e-commerce development, CRM applications, corporat
 <h4>🛒 E-commerce Development — Vishal Peripherals & Vishal Computech</h4>
 
 Developed e-commerce websites using OpenCart to support online product presentation and retail operations.
-
 <b>Technology:</b> OpenCart
+
+<h4>📈 Digital Marketing & Business Growth — Vishal Peripherals & Vishal Computech</h4>
+
+-Managed digital marketing initiatives to strengthen online presence and support business growth. 
+- Contributed to growing the business from ₹0 to ₹30 Lakhs through digital marketing and online business initiatives.
+- Combined e-commerce website development and digital marketing to support customer acquisition and business development.
+
+<b> Focus Areas:</b> Digital Marketing · E-commerce Growth · Online Business Development
 
 <h4>⚙️ CRM Application Development</h4>
 
@@ -35,8 +42,8 @@ Created a centralized technical support resource to help field engineers access 
 <b>Platform:<b> Google Sites
 
 <h4>☁️ Cloud Certification</h4>
-- <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b>b>
-
+- <b>Microsoft Certified
+    
 <h4>🌱 Currently Improving</h4>
     
     - Python and JavaScript programming
