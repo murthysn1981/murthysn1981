@@ -1,6 +1,6 @@
 <h1> Hi, I'm Murthy 👋</h1>
 
-**Web Developer | E-commerce | CRM | Business Solutions**
+<h2>Web Developer | E-commerce | CRM | Business Solutions</h2>
 
 I build practical digital solutions that help businesses strengthen their online presence, streamline operations, and improve customer support.
 
