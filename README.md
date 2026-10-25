@@ -23,6 +23,18 @@ Developed e-commerce websites using OpenCart to support online product presentat
   
 **Focus Areas:** Digital Marketing · E-commerce Growth · Revenue Growth · Online Business Development
 
+### 📊 Power BI — Service Performance & TAT Analysis
+
+Currently developing a Power BI presentation to monitor service operations, analyze turnaround time (TAT), track daily pending calls, and evaluate team performance.
+
+**Key Focus Areas:**
+- 📈 TAT analysis and service-level performance monitoring
+- 📋 Daily pending-call tracking and backlog analysis
+- 🎯 Team performance and productivity reporting
+- 📊 Data visualization to support operational reviews and decision-making
+
+**Technology:** Microsoft Power BI
+
 #### ⚙️ CRM Application Development
 
 Developed a Customer Relationship Management (CRM) application using the Yii2 framework to support business workflows and customer-related operations.
