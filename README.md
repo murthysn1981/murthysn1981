@@ -1,4 +1,4 @@
-<h1> **Hi, I'm Murthy** 👋</h1>
+<h1> Hi, I'm Murthy 👋</h1>
 
 **Web Developer | E-commerce | CRM | Business Solutions**
 
