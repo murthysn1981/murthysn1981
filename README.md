@@ -6,64 +6,50 @@ I build practical digital solutions that help businesses strengthen their online
 
 My project experience spans **e-commerce development, CRM applications, corporate websites, and technical support knowledge resources.**
 
-💼 <h3>Project Experience </h3>
+<h3>💼 Project Experience </h3>
 
-🛒 E-commerce Development — Vishal Peripherals & Vishal Computech
+<h4>🛒 E-commerce Development — Vishal Peripherals & Vishal Computech</h4>
 
 Developed e-commerce websites using OpenCart to support online product presentation and retail operations.
 
-Technology: OpenCart
+<h5>Technology:</h5> OpenCart
 
-⚙️ CRM Application Development
+<h4>⚙️ CRM Application Development</h4>
 
 Developed a Customer Relationship Management (CRM) application using the Yii2 framework to support business workflows and customer-related operations.
 
-Technologies: PHP · Yii2
+<h5>Technologies:</h5> PHP · Yii2
 
-🌐 Corporate Website — ESY Tech Resources India Pvt. Ltd.
+<h4>🌐 Corporate Website — ESY Tech Resources India Pvt. Ltd.</h4>
 
 Developed a corporate website using WordPress to present company information and establish an online presence.
 
-Platform: WordPress
+<h5>Platform:</h5> WordPress
 
-🛠️ TVSE Field Engineers Help Centre
+<h4>🛠️ TVSE Field Engineers Help Centre</h4>
 
 Created a centralized technical support resource to help field engineers access troubleshooting information and support documentation.
 
-🔗 Visit the TVSE Field Engineers Help Centre
+<a href="sites.google.com/view/tvsehelpcentre">🔗 Visit the TVSE Field Engineers Help Centre</a>
 
-Platform: Google Sites
+<h5>Platform:</h5> Google Sites
 
-🧰 Technologies & Tools
+<h4>☁️ Cloud Certification</h4>
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
 
+<h4>🌱 Currently Improving</h4>
+    
+    - Python and JavaScript programming
+    - Modern web development practices
+    - Git and GitHub workflows
+    - Code quality and technical documentation
 
-
-
-
-
-
-
-
-
-
-🌱 Currently Improving
-
-Python and JavaScript programming
-
-Modern web development practices
-
-Git and GitHub workflows
-
-Code quality and technical documentation
-
-🎯 Professional Goal
-
+<h4>🎯 Professional Goal</h4>
 To build reliable, user-friendly digital solutions, strengthen my development skills, and contribute to meaningful software projects.
 
-🤝 Connect With Me
+<h4>🤝 Connect With Me</h4>
 
-GitHub: murthysn1981
+<h5>GitHub:</h5> murthysn1981
+<h5>LinkedIn:</h5> <a href= "linkedin.com/in/murthysn">Connect with me</a>
 
-LinkedIn: Connect with me
-
-⭐ Building practical solutions. Learning continuously. Growing through technology.
+<i>⭐ Building practical solutions. Learning continuously. Growing through technology.</i>
