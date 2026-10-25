@@ -1,12 +1,12 @@
-Hi, I'm Murthy 👋
+<h1> **Hi, I'm Murthy** 👋</h1>
 
-Web Developer | E-commerce | CRM | Business Solutions
+**Web Developer | E-commerce | CRM | Business Solutions**
 
 I build practical digital solutions that help businesses strengthen their online presence, streamline operations, and improve customer support.
 
-My project experience spans e-commerce development, CRM applications, corporate websites, and technical support knowledge resources.
+My project experience spans **e-commerce development, CRM applications, corporate websites, and technical support knowledge resources.**
 
-💼 Project Experience
+💼 **Project Experience**
 
 🛒 E-commerce Development — Vishal Peripherals & Vishal Computech
 
