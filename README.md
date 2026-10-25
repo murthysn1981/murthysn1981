@@ -12,7 +12,7 @@ My project experience spans **e-commerce development, CRM applications, corporat
 
 Developed e-commerce websites using OpenCart to support online product presentation and retail operations.
 
-<h5>Technology:</h5> OpenCart
+<b>Technology:</b>OpenCart
 
 <h4>⚙️ CRM Application Development</h4>
 
