@@ -6,7 +6,7 @@ I build practical digital solutions that help businesses strengthen their online
 
 My project experience spans **e-commerce development, CRM applications, corporate websites, and technical support knowledge resources.**
 
-💼 **Project Experience**
+💼 <h3>Project Experience </h3>
 
 🛒 E-commerce Development — Vishal Peripherals & Vishal Computech
 
